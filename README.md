@@ -33,4 +33,4 @@ In the opened interface, you can run the notebook files located in the `GoT` dir
 If you would like to contribute, please submit a pull request or open an issue.
 ```
 
-Bu şekilde, README dosyanız İngilizce olacak ve lisans kısmı kaldırılmış olacaktır. Projenin içeriği hakkında bilgi verirken, kurulum ve kullanım talimatlarını da ekledim.
+
